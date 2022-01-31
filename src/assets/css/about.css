@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #340193
+  }
+  .navbar>ul>li>p{
+    color: #fff
+  }
+.form-select{
+  background-color: transparent;
+  color: #fff;
+  border: transparent
+}
+  body{
+    background-color: #140233
+  }
+  .create>a>.btn{
+    margin-top: 5em;
+    background-color:  #340193;
+    color: #fff
+  }
+  .task{
+    background-color: #340193;
+    margin-top: 2em;
+    color: #fff;
+    padding: 0.5em;
+    border-radius: 1em;
+    width: 10em
+  }
+ul{
+ list-style-type: none
+}
